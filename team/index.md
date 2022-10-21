@@ -30,7 +30,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: ma"
 %}
 {:.center}
 
@@ -43,7 +43,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Join
 
-#### Post Dogtoral Researcher
+### Post Dogtoral Researcher
 
 We would like a post dog.
 

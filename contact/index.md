@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/), at [Peabody College](https://peabody.vanderbilt.edu/).
+Our lab is part of the [Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/) at [Peabody College](https://peabody.vanderbilt.edu/).
 We are located on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/).
 
 {%

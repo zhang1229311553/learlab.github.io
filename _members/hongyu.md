@@ -7,7 +7,6 @@ role: ma
 #   - A. Chovie
 #   - A Chovie
 links:
-#   home-page: annechovie.com
   email: hongyu.dai@vanderbilt.edu
   github: hydai99
 ---
