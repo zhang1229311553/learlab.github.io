@@ -22,7 +22,7 @@
   group: more
   image: images/soa-bert-grid-lineplot.png
   link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  description: We think transformers are a powerful tool for language related research.
+  description: We think transformers are a powerful tool for language related research. We want to help the research community use these tools effectively.
   repo: langdonholmes/lexical_analysis
   tags:
     - resource
@@ -32,7 +32,7 @@
   group: more
   image: images/taales.png
   link: https://www.linguisticanalysistools.org/
-  description: Lots of people use these tools. Nice job Scott!
+  description: Lots of people use these tools, created by Scott Crossley, Kristopher Kyle, and their collaborators.
   repo: kristopherkyle/TAASSC
   tags:
     - software
