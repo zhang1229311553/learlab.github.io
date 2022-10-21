@@ -1,18 +1,16 @@
 ---
-name: Felix Cited
-image: images/member.jpg
-description: Treat Researcher
+name: Langdon Holmes
+image: images/langdon.jpg
+description: Researcher
 role: phd
-group: alum
-aliases:
-  - F. Cited
-  - F Cited
+# group: alum
+# aliases:
+#   - F. Cited
+#   - F Cited
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  home-page: langdonholmes.info
+  email: langdon.holmes@vanderbilt.edu
+  twitter: langdonholmes
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Langdon is a PhD student in the LEAR lab.
