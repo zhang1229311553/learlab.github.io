@@ -11,7 +11,7 @@
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
   group: featured
-  image: images/photo.jpg
+  image: images/process-diagram.png
   link: https://github.com/aialoe/deidentification-pipeline
   description: Text deidentification is a difficult problem. Stay tuned.
   repo: aialoe/deidentification-pipeline
@@ -22,7 +22,7 @@
   group: more
   image: images/soa-bert-grid-lineplot.png
   link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  description: We think transformers are a powerful tool for language-related research.
+  description: We think transformers are a powerful tool for language related research.
   repo: langdonholmes/lexical_analysis
   tags:
     - resource
