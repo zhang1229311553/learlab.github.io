@@ -1,10 +1,10 @@
-- title: Tools for Linguistic Analysis
-  subtitle: Scott does this
+- title: Digital Textbook
+  subtitle: A digital textbook on Macro Economics
   group: featured
-  image: images/taales.png
-  link: https://www.linguisticanalysistools.org/
-  description: Lots of people use these tools. Nice job Scott!
-  repo: greenelab/lab-website-template
+  image: images/young-lady-primer.jpg
+  link: https://textbook-demo.web.app/
+  description: What if students could interact with their textbooks? We are building an open source digital textbook powered by AI.
+  repo: aialoe/macro-economics-textbook
   tags:
     - resource
 
@@ -12,36 +12,36 @@
   subtitle: Personally Identifiable Information Labelling and Obfuscation software
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/aialoe/deidentification-pipeline
   description: Text deidentification is a difficult problem. Stay tuned.
-  repo: greenelab/lab-website-template
+  repo: aialoe/deidentification-pipeline
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Transformers for Language Learning Research
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images\soa-bert-grid-lineplot.png
+  link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  description: We think transformers are a powerful tool for language-related research.
+  repo: langdonholmes/lexical_analysis
   tags:
     - resource
     - publication
 
-- title: Cool App
+- title: Tools for Linguistic Analysis
   group: more
-  image: images/photo.jpg
-  link: 
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Lots of people use these tools. Nice job Scott!
+  repo: kristopherkyle/TAASSC
   tags:
     - software
 
 - title: Our Web Server Configuration
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images\kubernetes.png
+  link: https://github.com/langdonholmes/as-alesl-nlp.dyn.gsu.edu
+  description: We will have a server at Vanderbilt someday.
+  repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
   tags:
     - software
