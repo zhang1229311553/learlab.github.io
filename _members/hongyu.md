@@ -1,8 +1,8 @@
 ---
 name: Hongyu Dai
-image: images/qiushi.jpg
+image: images/hongyu.jpg
 description: Graduate Student
-role: phd
+role: ma
 # aliases:
 #   - A. Chovie
 #   - A Chovie

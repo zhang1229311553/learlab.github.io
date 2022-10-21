@@ -2,7 +2,7 @@
 name: Qiushi Yan
 image: images/qiushi.jpg
 description: Graduate Student
-role: phd
+role: ma
 # aliases:
 #   - A. Chovie
 #   - A Chovie
