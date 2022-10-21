@@ -4,7 +4,7 @@ title: Home
 
 # Knowledge is data-driven
 
-We use learning analytics to generate insights about learning.
+We use data science to generate insights about learning that support AI-driven education interventions.
 
 {%
   include link.html
@@ -47,7 +47,7 @@ Our research makes sense of big datasets.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.svg"
   link="research"
   title="Our Research"
   text=text
@@ -68,7 +68,7 @@ We are developing tools that will benefit the research community.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools.svg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -76,7 +76,7 @@ We are developing tools that will benefit the research community.
 %}
 
 {% capture text %}
-Our team is awesome. 
+We are a diverse and multidisciplinary group of researchers. Our team is awesome. 
 
 {%
   include link.html
@@ -90,10 +90,12 @@ Our team is awesome.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.svg"
   link="team"
   title="Our Team"
   text=text
 %}
 
-We are always open to opportunities for collaboration. Schedule a meeting to meet with one of our team members.
+{% comment %}
+Text can go here.
+{% comment %}
