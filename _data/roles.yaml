@@ -11,7 +11,7 @@ phd:
   text: PhD Student
 
 ma:
-  icon: fas fa-thought-bubble
+  icon: fas fa-lightbulb
   text: MA Student
 
 undergrad:
