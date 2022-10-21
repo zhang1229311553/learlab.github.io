@@ -10,12 +10,12 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: lear.lab.vu@gmail.com
+  google-scholar: Scott Crossley
+  github: learlab
+  # twitter: YourLabHandle
+  # instagram: YourLabHandle
+  # youtube: YourLabChannel
 
 ### advanced settings
 
