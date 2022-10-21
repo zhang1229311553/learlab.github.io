@@ -43,9 +43,9 @@ We are located on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.v
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-110 Magnolia Circle #223
-Nashville, TN 37212
-United States
+110 Magnolia Circle #223  
+Nashville, TN 37212  
+United States  
 {:.center}
 
 {% capture col1 %}

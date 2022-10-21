@@ -25,13 +25,9 @@
       {%- assign value = entry[1] -%}
       {%- include link.html type=key icon="" tooltip="" link=value -%}
     {%- endfor -%}
-  </div>
-
-  <div class="footer_row">
     <span>
-      &copy; {{ site.time | date: '%Y' }} {{ site.title }}
       &nbsp; | &nbsp;
-      Built with <a href="https://github.com/greenelab/lab-website-template">Lab Website Template</a>
+      &copy; {{ site.time | date: '%Y' }} {{ site.title }}
     </span>
   </div>
 
