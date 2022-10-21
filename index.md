@@ -10,8 +10,8 @@ We use learning analytics to generate insights about learning.
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="Find us on GitHub"
+  link="learlab"
   style="button"
 %}
 {%
@@ -33,7 +33,7 @@ We use learning analytics to generate insights about learning.
 # Highlights
 
 {% capture text %}
-Our research makes sense of big, noisy datasets.
+Our research makes sense of big datasets.
 
 {%
   include link.html
@@ -76,7 +76,7 @@ We are developing tools that will benefit the research community.
 %}
 
 {% capture text %}
-Our team is awesome. Langdon especially.
+Our team is awesome. 
 
 {%
   include link.html
