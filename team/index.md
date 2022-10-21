@@ -77,17 +77,3 @@ Our work is made possible by funding from several organizations.
   link3="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
   tooltip3="National Science Foundation"
 %}
-
-{% comment %}
-image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-{% endcomment %}

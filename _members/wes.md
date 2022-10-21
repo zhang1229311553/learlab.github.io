@@ -13,6 +13,8 @@ role: phd
 #   twitter: uptonogoode
 ---
 
-# Upton is a good dog.
-# He studied at the University of Good Dogs.
-# He likes pets, walkies, and treats.
+{% comment %}
+Upton is a good dog.
+He studied at the University of Good Dogs.
+He likes pets, walkies, and treats.
+{% endcomment %}
