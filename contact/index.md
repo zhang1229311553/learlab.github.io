@@ -7,34 +7,34 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/), at [Peabody College](https://peabody.vanderbilt.edu/).
+We are located on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="lear.lab.vu@gmail.com"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="lear.lab.vu@gmail.com"
   style="button"
 %}
-{%
+<!-- {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  text="(615) 322-8240"
+  tooltip="Kennedy Center Phone Number"
+  link="+1-615-322-8240"
   style="button"
-%}
+%} -->
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/One+Magnolia+Circle,+110+Magnolia+Cir,+Nashville,+TN+37212/@36.1431912,-86.7994436,17z/data=!3m1!4b1!4m5!3m4!1s0x886466984b09d6dd:0x7c2fd8ead37eaed4!8m2!3d36.1431912!4d-86.7994436"
   style="button"
 %}
 {:.center}
@@ -43,23 +43,23 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+110 Magnolia Circle #223
+Nashville, TN 37212
+United States
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/vanderbilt-peabody.jpg"
+  caption="Peabody College at Vanderbilt"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/kennedy-center.jpg"
+  caption="Vanderbilt Kennedy Center"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
