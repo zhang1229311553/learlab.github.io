@@ -6,12 +6,11 @@ role: pi
 aliases:
   - S. Crossley
   - S. A. Crossley
-# links:
-  # home-page: annechovie.com
-  # email: anne@chovie.com
-  # github: anne-chovie
+links:
+  orcid: 0000-0002-5148-0273
+  home-page: linguisticanalysistools.org/bios.html
+  email: scott.crossley@vanderbilt.edu
+  github: scrosseye
 ---
 
-<!-- Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats. -->
+Scott is a benevolent PI.

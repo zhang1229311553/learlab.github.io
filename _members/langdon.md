@@ -8,9 +8,11 @@ role: phd
 #   - F. Cited
 #   - F Cited
 links:
+  orcid: 0000-0003-4338-4609
   home-page: langdonholmes.info
   email: langdon.holmes@vanderbilt.edu
-  twitter: langdonholmes
+  twitter: langdon_holmes
+  github: langdonholmes
 ---
 
-Langdon is a PhD student in the LEAR lab.
+Langdon is a PhD student in the LEAR Lab. He works on text deidentification, learner language development, and learning analytics.
