@@ -9,7 +9,7 @@
     - resource
 
 - title: PIILO
-  subtitle: Personally Identifiable Information Labelling and Obfuscation software
+  subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
   group: featured
   image: images/photo.jpg
   link: https://github.com/aialoe/deidentification-pipeline
@@ -20,7 +20,7 @@
 
 - title: Transformers for Language Learning Research
   group: more
-  image: images\soa-bert-grid-lineplot.png
+  image: images/soa-bert-grid-lineplot.png
   link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
   description: We think transformers are a powerful tool for language-related research.
   repo: langdonholmes/lexical_analysis
@@ -39,7 +39,7 @@
 
 - title: Our Web Server Configuration
   group: more
-  image: images\kubernetes.png
+  image: images/kubernetes.png
   link: https://github.com/langdonholmes/as-alesl-nlp.dyn.gsu.edu
   description: We will have a server at Vanderbilt someday.
   repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
