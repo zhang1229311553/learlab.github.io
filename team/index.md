@@ -78,7 +78,8 @@ Our work is made possible by funding from several organizations.
   tooltip3="National Science Foundation"
 %}
 
-<!-- image4="images/photo.jpg"
+{% comment %}
+image4="images/photo.jpg"
   link4="https://nasa.gov/"
   tooltip4="Cool Foundation"
 
@@ -89,4 +90,4 @@ Our work is made possible by funding from several organizations.
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
-  %} -->
+{% endcomment %}
