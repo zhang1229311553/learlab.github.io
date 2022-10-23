@@ -26,7 +26,7 @@ We use data science to generate insights about learning that support AI-driven e
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+<!-- {% include banner.html image="images/banner.jpg" %} -->
 
 {% include section.html %}
 
