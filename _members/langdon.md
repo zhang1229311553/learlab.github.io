@@ -1,7 +1,7 @@
 ---
 name: Langdon Holmes
 image: images/langdon.jpg
-description: 2nd year
+description: PhD Student
 role: phd
 # group: alum
 # aliases:

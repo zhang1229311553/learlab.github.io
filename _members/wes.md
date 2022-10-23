@@ -1,7 +1,7 @@
 ---
 name: Wesley Morris
 image: images/wes.png
-description: 1st year
+description: PhD Student
 role: phd
 # aliases:
 #   - U. Goode
