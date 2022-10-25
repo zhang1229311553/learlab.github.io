@@ -45,3 +45,12 @@
   repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
   tags:
     - software
+
+- title: Coursera Dataset
+  group: datasets
+  image: 
+  link: 
+  description: This is a good data.
+  repo: 
+  tags:
+    - data
