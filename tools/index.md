@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Resources
 nav:
   order: 2
   tooltip: Software, datasets, and more
@@ -18,6 +18,10 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
+
+## Datasets
+
+{% include list.html component="card" data="tools" filters="group: data" style="small" %}
 
 ## More
 
