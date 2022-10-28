@@ -14,14 +14,6 @@ We use data science to generate insights about learning that support AI-driven e
   link="learlab"
   style="button"
 %}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}

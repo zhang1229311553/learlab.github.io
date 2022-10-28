@@ -1,8 +1,8 @@
 ---
 title: Blog
-nav:
-  order: 4
-  tooltip: Short Writings from our Members
+# nav:
+#   order: 4
+#   tooltip: Short Writings from our Members
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog

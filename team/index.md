@@ -39,15 +39,15 @@ Teamwork makes the dream work.
 
 ## Join
 
-### Post Dogtoral Researcher
+### Post Doctoral Researcher
 
-We would like a post dog.
+We would like a post doc. If you have experience in the following areas, check back here. We will open applications soon.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- Data science
+- Natural Language Processing
+- Education Research
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+<!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
 {:.center}
 
 {% include section.html %}
@@ -61,15 +61,12 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/ai-aloe.jpg"
-  link1="https://aialoe.org/"
-  tooltip1="AI-ALOE"
+  image1="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png"
+  link1="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
+  tooltip1="National Science Foundation"
 
   image2="images/learning-agency.png"
   link2="https://www.the-learning-agency.com/"
   tooltip2="The Learning Agency"
-
-  image3="images/nsf.png"
-  link3="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
-  tooltip3="National Science Foundation"
+  
 %}

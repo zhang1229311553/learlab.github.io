@@ -6,7 +6,8 @@
   description: What if students could interact with their textbooks? We are building an open source digital textbook powered by AI.
   repo: aialoe/macro-economics-textbook
   tags:
-    - resource
+    - software
+    - demonstration
 
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
@@ -16,7 +17,7 @@
   description: Text deidentification is a difficult problem. Stay tuned.
   repo: aialoe/deidentification-pipeline
   tags:
-    - resource
+    - software
 
 - title: Transformers for Language Learning Research
   group: more
@@ -25,7 +26,7 @@
   description: We think transformers are a powerful tool for language related research. We want to help the research community use these tools effectively.
   repo: langdonholmes/lexical_analysis
   tags:
-    - resource
+    - tutorial
     - publication
 
 - title: Tools for Linguistic Analysis
