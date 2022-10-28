@@ -35,8 +35,8 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_12
-    text: Manuscript source
+  - type: preprint
+    link: https://zenodo.org/record/7262351
   - type: source
     link: https://github.com/aialoe/de-identification
-    text: Associated scripts
-  _cache: 3ddb389c1465c0ea47f26e4c5090fcd73de7257978361e0d99fd7b60128d55e4
+  _cache: 34137f988451348b9c4eaf21c765c88db76202e4e0954e017544f6acc162dfc8
