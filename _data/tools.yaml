@@ -9,9 +9,27 @@
     - software
     - demonstration
 
+- title: Tools for Linguistic Analysis
+  group: featured
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Lots of people use these tools, created by Scott Crossley, Kristopher Kyle, and their collaborators.
+  repo: kristopherkyle/TAASSC
+  tags:
+    - software
+
+- title: Coursera Dataset
+  group: datasets
+  image: images/coursera.svg
+  link: https://www.coursera.org/learn/uva-darden-design-thinking-innovation
+  description: We are working on deidentifying and releasing student writing submissions collected by Coursera.
+  repo: aialoe/uva_design_thinking
+  tags:
+    - data
+
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
-  group: featured
+  group: more
   image: images/process-diagram.png
   link: https://github.com/aialoe/deidentification-pipeline
   description: Text deidentification is a difficult problem. Stay tuned.
@@ -29,29 +47,13 @@
     - tutorial
     - publication
 
-- title: Tools for Linguistic Analysis
-  group: more
-  image: images/taales.png
-  link: https://www.linguisticanalysistools.org/
-  description: Lots of people use these tools, created by Scott Crossley, Kristopher Kyle, and their collaborators.
-  repo: kristopherkyle/TAASSC
-  tags:
-    - software
-
 - title: Our Web Server Configuration
   group: more
   image: images/kubernetes.png
   link: https://github.com/langdonholmes/as-alesl-nlp.dyn.gsu.edu
-  description: We will have a server at Vanderbilt someday.
+  description: This is our configuration for a collaborative high-performance computing server, managed by our lab.
   repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
   tags:
     - software
 
-- title: Coursera Dataset
-  group: datasets
-  image: images/coursera.svg
-  link: https://www.coursera.org/learn/uva-darden-design-thinking-innovation
-  description: We are working on deidentifying and releasing student writing submissions collected by Coursera.
-  repo: aialoe/uva_design_thinking
-  tags:
-    - data
+

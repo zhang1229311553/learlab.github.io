@@ -7,8 +7,9 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/) at [Peabody College](https://peabody.vanderbilt.edu/).
-We are located on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/).
+Our lab is located in the [Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/) on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/).
+
+We have affiliations with [Peabody College](https://peabody.vanderbilt.edu/), [The Department of Psychology and Human Development](https://peabody.vanderbilt.edu/departments/psych/), and [The Data Science Institute](https://www.vanderbilt.edu/datascience/).
 
 {%
   include link.html
