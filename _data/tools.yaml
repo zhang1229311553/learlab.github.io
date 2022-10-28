@@ -54,6 +54,6 @@
   description: This is our configuration for a collaborative high-performance computing server, managed by our lab.
   repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
   tags:
-    - software
+    - configuration
 
 
