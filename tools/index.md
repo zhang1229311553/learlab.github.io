@@ -21,7 +21,7 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 
 ## Datasets
 
-{% include list.html component="card" data="tools" filters="group: data" style="small" %}
+{% include list.html component="card" data="tools" filters="group: datasets" style="small" %}
 
 ## More
 

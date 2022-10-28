@@ -49,9 +49,9 @@
 
 - title: Coursera Dataset
   group: datasets
-  image: 
-  link: 
-  description: This is a good data.
-  repo: 
+  image: images/coursera.svg
+  link: https://www.coursera.org/learn/uva-darden-design-thinking-innovation
+  description: We are working on deidentifying and releasing student writing submissions collected by Coursera.
+  repo: aialoe/uva_design_thinking
   tags:
     - data
