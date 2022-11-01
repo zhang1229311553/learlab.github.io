@@ -1,13 +1,13 @@
 ---
 name: Qiushi Yan
-image: images/qiushi.jpg
+image: images/qiushi.png
 description: Master's Student
 role: ma
 # aliases:
 #   - A. Chovie
 #   - A Chovie
 links:
-  home-page: https://qiushi.rbind.io/
+  home-page: https://qiushiyan.dev/
   email: qiushi.yan@vanderbilt.edu
   github: qiushiyan
 ---
