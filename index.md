@@ -87,7 +87,6 @@ We make tools that help researchers analyze language data. We also endeavour to 
   image="images/tools.svg"
   link="tools"
   title="Software and Tutorials"
-  flip=true
   text=text
 %}
 
