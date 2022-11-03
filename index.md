@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Knowledge is data-driven
+# What We Do
 
-We use data science to generate insights about learning that support AI-driven education interventions.
+We use data science to generate insights about language, learning, and education that support AI-driven theory, applications, research, and interventions.
 
 {%
   include link.html
