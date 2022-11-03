@@ -20,15 +20,6 @@ We have affiliations with [The Department of Special Education](https://peabody.
   link="lear.lab.vu@gmail.com"
   style="button"
 %}
-<!-- {%
-  include link.html
-  type="phone"
-  icon=""
-  text="(615) 322-8240"
-  tooltip="Kennedy Center Phone Number"
-  link="+1-615-322-8240"
-  style="button"
-%} -->
 {%
   include link.html
   type="address"

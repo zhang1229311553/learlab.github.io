@@ -9,27 +9,9 @@
     - software
     - demonstration
 
-- title: Tools for Linguistic Analysis
-  group: featured
-  image: images/taales.png
-  link: https://www.linguisticanalysistools.org/
-  description: Lots of people use these tools, created by Scott Crossley, Kristopher Kyle, and their collaborators.
-  repo: kristopherkyle/TAASSC
-  tags:
-    - software
-
-- title: Coursera Dataset
-  group: datasets
-  image: images/coursera.svg
-  link: https://www.coursera.org/learn/uva-darden-design-thinking-innovation
-  description: We are working on deidentifying and releasing student writing submissions collected by Coursera.
-  repo: aialoe/uva_design_thinking
-  tags:
-    - data
-
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
-  group: more
+  group: featured
   image: images/process-diagram.png
   link: https://github.com/aialoe/deidentification-pipeline
   description: Text deidentification is a difficult problem. Stay tuned.
@@ -37,6 +19,69 @@
   tags:
     - software
 
+- title: TAALES
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Lexical sophistication
+  tags:
+    - software
+    - salat
+
+- title: TAACO
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Text Cohesion
+  tags:
+    - software
+    - salat
+
+- title: TAASSC
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Syntactic Complexity
+  tags:
+    - software
+    - salat
+
+- title: TAALED
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Lexical Diversity
+  tags:
+    - software
+    - salat
+
+- title: SEANCE
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Sentiment Analysis
+  tags:
+    - software
+    - salat
+
+- title: ARTE
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Text Readability
+  tags:
+    - software
+    - salat
+
+- title: GAMET
+  group: salat
+  image: images/taales.png
+  link: https://www.linguisticanalysistools.org/
+  description: Grammatical Complexity
+  tags:
+    - software
+    - salat
+    
 - title: Transformers for Language Learning Research
   group: more
   image: images/soa-bert-grid-lineplot.png
@@ -55,5 +100,3 @@
   repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
   tags:
     - configuration
-
-

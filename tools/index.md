@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Tools
 nav:
   order: 3
   tooltip: Software, datasets, and more
@@ -9,20 +9,15 @@ nav:
 
 Our work wouldn't be possible without the contributions of hundreds of other labs. Here are some tools and resources that we have developed for the research community.
 
+{% include search-info.html %}
+
+{% include section.html %}
+
+## Lexical Analysis Tools
+
 Along with colleagues at the University of Oregon (Kris Kyle), Arizona State University (Danielle McNamara), and Georgia State University (Joon Suh Choi), we have developed a number of tools that can be used to automatically extract linguistic features, language components, and readability formulas from texts.
 
-The tools focus on the following features
-- Lexical sophistication (TAALES)
-- Text Cohesion (TAACO)
-- Syntactic Complexity (TAASSC)
-- Lexical Diversity (TAALED)
-- Sentiment Analysis (SEANCE)
-- Text Readability (ARTE)
-- Grammatical Complexity (GAMET)
-
-The developed tools are freely available on linguisticanalysistool.org
-
-{% include search-info.html %}
+{% include list.html component="card" data="tools" filters="group: salat" style="small" %}
 
 {% include section.html %}
 
