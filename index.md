@@ -27,6 +27,8 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 # Highlights
 
 {% capture text %}
+Wherever possible, we endeavour to accompany our publications with source code and supplementary resources. We also upload earlier versions of our work to a database, so you can read a preprint without paying the publisher.
+
 {%
   include link.html
   link="research"
@@ -46,6 +48,7 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 %}
 
 {% capture text %}
+We produce public, openly available datasets. We also host competitions in which teams of scientists compete to build models that are more powerful and more explanatory.
 
 {%
   include link.html
@@ -67,7 +70,7 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 %}
 
 {% capture text %}
-We are developing tools that will benefit the research community.
+We make tools that help researchers analyze language data. We also endeavour to share our computer code in a clearly explained and reproducible format.
 
 {%
   include link.html
@@ -82,14 +85,14 @@ We are developing tools that will benefit the research community.
 {%
   include feature.html
   image="images/tools.svg"
-  link="resources"
-  title="Our Resources"
+  link="tools"
+  title="Software and Tutorials"
   flip=true
   text=text
 %}
 
 {% capture text %}
-We are a diverse and multidisciplinary group of researchers. Our team is awesome. 
+We are a diverse and multidisciplinary group of researchers. Our team is awesome.
 
 {%
   include link.html
@@ -106,6 +109,7 @@ We are a diverse and multidisciplinary group of researchers. Our team is awesome
   image="images/team.svg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
 
