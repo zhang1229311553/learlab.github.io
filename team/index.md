@@ -29,6 +29,12 @@ We have a diverse and supportive team with a wide range of skillsets and backgro
   component="portrait"
   filters="role: ma"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
