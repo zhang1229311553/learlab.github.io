@@ -6,7 +6,7 @@ title: Home
 
 We use data science to generate insights about language, learning, and education that support AI-driven theory, applications, research, and interventions.
 
-Our work generally focuses on the use of natural language processing (NLP) techniques and the application of computational tools and machine learning algorithms to better understand language learning, student writing, and text comprehensibility as means to understand underlying cognitive functions. The LEAR lab works with collaborators to develop NLP tools for use by researchers, industry patterns, and educational administrators. We also assess the application of NLP techniques like Large Language Models in educational settings (K-12 and adults) as a means of generating and testing student domain knowledge.
+Our work generally focuses on the use of natural language processing (NLP) techniques and the application of computational tools and machine learning algorithms to better understand language learning, student writing, and text comprehensibility as means to understand underlying cognitive functions. The LEAR lab works with collaborators to develop NLP tools for use by researchers, industry partners, and educational administrators. We also assess the application of NLP techniques like Large Language Models in educational settings (K-12 and adults) as a means of generating and testing student domain knowledge.
 
 {%
   include link.html
@@ -27,7 +27,7 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 # Highlights
 
 {% capture text %}
-Wherever possible, we endeavour to accompany our publications with source code and supplementary resources. We also upload earlier versions of our work to a database, so you can read a preprint without paying the publisher.
+Wherever possible, we accompany our publications with source code and supplementary resources. We also upload earlier versions of our work to a preprint database, so you can read them for free.
 
 {%
   include link.html
@@ -48,7 +48,7 @@ Wherever possible, we endeavour to accompany our publications with source code a
 %}
 
 {% capture text %}
-We produce public, openly available datasets. We also host competitions in which teams of scientists compete to build models that are more powerful and more explanatory.
+We produce large, public datasets. We also host competitions in which teams of scientists compete to model our data.
 
 {%
   include link.html
