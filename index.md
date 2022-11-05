@@ -4,14 +4,7 @@ title: Home
 
 # What We Do
 
-:speech_balloon: Language  
- and  
-:school: Educational  
-:bar_chart: Analytics  
-:bulb: Research  
-:microscope: Lab  
-
-We use data science to generate insights about language, learning, and education that support AI-driven theory, applications, research, and interventions.
+At the Language and Educational Analytics Research Lab, we use data science to generate insights about language, learning, and education that support AI-driven theory, applications, research, and interventions.
 
 Our work generally focuses on the use of natural language processing (NLP) techniques and the application of computational tools and machine learning algorithms to better understand language learning, student writing, and text comprehensibility as means to understand underlying cognitive functions. The LEAR lab works with collaborators to develop NLP tools for use by researchers, industry partners, and educational administrators. We also assess the application of NLP techniques like Large Language Models in educational settings (K-12 and adults) as a means of generating and testing student domain knowledge.
 
