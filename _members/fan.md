@@ -1,6 +1,6 @@
 ---
 name: Fan Bu
-image: image/Fan.jpg
+image: image/fan.jpg
 description: Research Assistant
 role: undergrad
 links:
