@@ -71,7 +71,7 @@ We produce large, public datasets. We also host competitions in which teams of s
   include feature.html
   image="images/data.svg"
   link="data"
-  title="Datasets"
+  title="Datasets and Competitions"
   flip=true
   text=text
 %}
