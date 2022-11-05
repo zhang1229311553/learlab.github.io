@@ -1,6 +1,6 @@
 ---
 name: Fan Bu
-image: image/fan.jpg
+image: images/fan.jpg
 description: Research Assistant
 role: undergrad
 links:
@@ -9,4 +9,4 @@ links:
   github: BFvandy
 ---
 
-Fan is an undergraduate research assistant. She is conducting statistical tests to identify demographics insights and surrogate piis in large datasets.
+Fan is an undergraduate research assistant. She is evaluating demographic differences in datasets to better understand model bias.
