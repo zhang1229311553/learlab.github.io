@@ -3,7 +3,7 @@ pi:
   text: Principal Investigator
 
 postdoc:
-  icon: fas fa-glasses
+  icon: fas fa-user-graduate
   text: Postdoctoral Researcher
 
 phd:
@@ -11,11 +11,11 @@ phd:
   text: PhD Student
 
 ma:
-  icon: fas fa-lightbulb
+  icon: fas fa-glasses
   text: MA Student
 
 undergrad:
-  icon: fas fa-user-graduate
+  icon: fas fa-lightbulb
   text: Undergraduate Student
 
 programmer:
