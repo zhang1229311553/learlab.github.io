@@ -1,11 +1,11 @@
 ---
-name: Victoria Last Name
+name: Victoria Tung
 image: 
 description: Research Assistant
-role: undergrad
+role: Undergrad
 <!-- links:
-  orcid: 0000-0001-6316-6479
-  email: wesley.morris@vanderbilt.edu
+  orcid: 0000-0002-0107-0639
+  email: victoria.w.tung@vanderbilt.edu
   github: tiedaar -->
 ---
 
