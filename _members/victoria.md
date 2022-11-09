@@ -1,9 +1,9 @@
 ---
 name: Victoria Tung
-image: 
+image: images/victoria.jpeg
 description: Research Assistant
 role: Undergrad
-<!-- links:
+links:
   orcid: 0000-0002-0107-0639
   email: victoria.w.tung@vanderbilt.edu
   github: 
